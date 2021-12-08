@@ -4,8 +4,8 @@ Contacts list manager. <br>
 
 **Technologies used:**
 - **Node.Js;**
-- ** MongoDB;**
-- ** React**
+- **MongoDB;**
+- **React**
 
 **How to use**
 ```
